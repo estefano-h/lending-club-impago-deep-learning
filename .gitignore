@@ -1,0 +1,27 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Resultados generados por el notebook
+resultados_tarea/
+
+# LaTeX (archivos auxiliares)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Sistema
+.DS_Store
+Thumbs.db
